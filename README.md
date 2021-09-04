@@ -3,7 +3,7 @@
 
 ## Photo:
 
-![Image of me](https://user-images.githubusercontent.com/89957637/132109743-4c513788-e4f2-452e-a0b2-3f29d57b00e8.jpg)
+![Image of me](https://user-images.githubusercontent.com/89957637/132109918-6bc988cb-6675-4baa-9bdd-fe9da48ecf5d.jpg)
 
 ## **Name:**
 Likhith Kumar Reddy.A
@@ -42,4 +42,6 @@ Likhith Kumar Reddy.A
 
 2. Telecommunication Optical Fiber
    - Was part of a team that worked on improving Optical filer Fusion Splicer
-
+   
+## **Hobbies:**
+- Travelling, photography and Music.
